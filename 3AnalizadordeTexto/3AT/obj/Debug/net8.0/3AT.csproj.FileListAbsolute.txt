@@ -1,0 +1,14 @@
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\obj\Debug\net8.0\3AT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\obj\Debug\net8.0\3AT.AssemblyInfoInputs.cache
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\obj\Debug\net8.0\3AT.AssemblyInfo.cs
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\obj\Debug\net8.0\3AT.csproj.CoreCompileInputs.cache
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\bin\Debug\net8.0\3AT.exe
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\bin\Debug\net8.0\3AT.deps.json
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\bin\Debug\net8.0\3AT.runtimeconfig.json
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\bin\Debug\net8.0\3AT.dll
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\bin\Debug\net8.0\3AT.pdb
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\obj\Debug\net8.0\3AT.dll
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\obj\Debug\net8.0\refint\3AT.dll
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\obj\Debug\net8.0\3AT.pdb
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\obj\Debug\net8.0\3AT.genruntimeconfig.cache
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\3AnalizadordeTexto\3AT\obj\Debug\net8.0\ref\3AT.dll
