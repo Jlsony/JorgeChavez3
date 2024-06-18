@@ -1,0 +1,14 @@
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\bin\Debug\net8.0\1CalculadoradeArea.exe
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\bin\Debug\net8.0\1CalculadoradeArea.deps.json
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\bin\Debug\net8.0\1CalculadoradeArea.runtimeconfig.json
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\bin\Debug\net8.0\1CalculadoradeArea.dll
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\bin\Debug\net8.0\1CalculadoradeArea.pdb
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\obj\Debug\net8.0\1CalculadoradeArea.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\obj\Debug\net8.0\1CalculadoradeArea.AssemblyInfoInputs.cache
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\obj\Debug\net8.0\1CalculadoradeArea.AssemblyInfo.cs
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\obj\Debug\net8.0\1CalculadoradeArea.csproj.CoreCompileInputs.cache
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\obj\Debug\net8.0\1CalculadoradeArea.dll
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\obj\Debug\net8.0\refint\1CalculadoradeArea.dll
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\obj\Debug\net8.0\1CalculadoradeArea.pdb
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\obj\Debug\net8.0\1CalculadoradeArea.genruntimeconfig.cache
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\1CalculadoradeArea\obj\Debug\net8.0\ref\1CalculadoradeArea.dll
