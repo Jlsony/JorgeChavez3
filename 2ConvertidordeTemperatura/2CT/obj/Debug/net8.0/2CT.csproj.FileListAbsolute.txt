@@ -1,0 +1,14 @@
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\obj\Debug\net8.0\2CT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\obj\Debug\net8.0\2CT.AssemblyInfoInputs.cache
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\obj\Debug\net8.0\2CT.AssemblyInfo.cs
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\obj\Debug\net8.0\2CT.csproj.CoreCompileInputs.cache
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\bin\Debug\net8.0\2CT.exe
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\bin\Debug\net8.0\2CT.deps.json
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\bin\Debug\net8.0\2CT.runtimeconfig.json
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\bin\Debug\net8.0\2CT.dll
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\bin\Debug\net8.0\2CT.pdb
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\obj\Debug\net8.0\2CT.dll
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\obj\Debug\net8.0\refint\2CT.dll
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\obj\Debug\net8.0\2CT.pdb
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\obj\Debug\net8.0\2CT.genruntimeconfig.cache
+E:\Programacion Web\C#\Reto-C# Nivel 3\Reto-C#Nivel 3\2ConvertidordeTemperatura\2CT\obj\Debug\net8.0\ref\2CT.dll
